@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nome": "Sensor de Temperatura",
+    "codigo": "TMP-001",
+    "fabricante": "Siemens"
+  },
+  {
+    "id": 2,
+    "nome": "Controlador Lógico Programável",
+    "codigo": "PLC-500",
+    "fabricante": "Allen-Bradley"
+  },
+  {
+    "id": 3,
+    "nome": "Fonte 24V",
+    "codigo": "FNT-24V",
+    "fabricante": "Phoenix Contact"
+  }
+]
